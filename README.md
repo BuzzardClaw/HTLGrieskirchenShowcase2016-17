@@ -18,4 +18,7 @@ MasterCart Multiplayer Car Race
 https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/MasterCartMultiplayerWeb/index.html
 
 SwimGoldfishSwim from Michael Duschek
-https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/SwimGoldfishSwim/index.html
+https://github.com/AlfredDoppler/HTLGrieskirchenShowcase2016-17/blob/master/SwimGoldfishSwim/index.html
+
+I Wanna Be The Isaac from Samuel Köpf
+https://alfreddoppler.github.io/HTLGrieskirchenShowcase2016-17/Projects_WS_2016/Isaac_skoepf/index.html
